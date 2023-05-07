@@ -1,0 +1,23 @@
+body{
+
+     background-color: darkgoldenrod;
+    
+    }
+    
+    h1{
+    
+    color: rgb(130, 165, 196);
+    
+    }
+    
+    .contain{
+    
+    display: flex;
+    
+     justify-content: center;
+    
+     align-items: center;
+    
+     height: 100vh;
+    
+    }
